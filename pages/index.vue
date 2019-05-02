@@ -31,7 +31,7 @@
     },
     data () {
       return {
-        posts: []
+        posts: ['hoge']
       }
     },
     // `env` is available in the context object

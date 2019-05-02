@@ -1,3 +1,4 @@
+
 const contentful = require('contentful')
 // ./nuxt.config.js
 const config = require('./.contentful.json')
